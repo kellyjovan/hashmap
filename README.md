@@ -23,7 +23,7 @@ hashmap.is_empty()
 # Get the number of elements currently in hashmap
 hashmap.size()
 
-# Get current_capacity of hashmap, until resize
+# Get current_capacity of hashmap
 hashmap.capacity()
 ```
 
